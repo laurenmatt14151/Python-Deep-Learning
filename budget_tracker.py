@@ -17,7 +17,7 @@ expense_amount_list.append(expense_amount)
 
 budget = income 
 budget -= expense_amount
-'''Subtract expense from input not array. Use array for print out.'''
+'''Subtract expenses from input not array. Use array for print out.'''
 
 choice = int(input("1. Add another expense\n2. Show budget\nChoice: "))
 
