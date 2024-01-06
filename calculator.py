@@ -21,9 +21,17 @@ elif symbol == '*':
 elif symbol == '/':
     if num2 == 0:
         print("Error: division by zero")
+
     answer = float(num1)/float(num2)
 else:
     print("Error: Invalid operation")
 
-print(num1, " ", symbol, " ", num2, " = ", answer)
+print("\n\n     ", num1, "     ")
+print("     ", symbol, "     ")
+print("     ", num2, "     ")
+print("  ________   \n")
+print("     ", round(answer, 1), "     ")
+print("\n\n")
+
+#print(num1, " ", symbol, " ", num2, " = ", answer)
 
