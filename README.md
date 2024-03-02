@@ -19,21 +19,21 @@ Budget tracker program that allows users to input their income and expenses. The
 ### task_manager.py
 Command-line task manager application that allows users to add tasks, mark tasks as complete, view all tasks, and delete tasks
 
-### Web Scraper
+### Web Scraper - Data Science
 Build a web scraper to extract data from a website and analyze the data using Python libraries
 <li>Web scraping Python libraries like BeautifulSoup or Scrapy</li>
 <li>Data manipulation and analysis using pandas and NumPy</li>
 <li>Visualization using matplotlib or seaborn</li>
 <li>Error handling and dealing with various data formats</li>
 
-### Chat bot
+### Chat bot - Machine Learning
 Simple chat bot that can engae in basic conversation with users
 <li>Greet users</li>
 <li>Respond to common greetings</li>
 <li>Provide predefined responses based on user input</li>
 <li>End conversation</li>
 
-### Sales Performance Analysis Tool
+### Sales Performance Analysis Tool 
 A python script that loads a dataset containing sales data, performs basic analyusis using NumPy and pandas, and visualizes the results using matplotlib and seaborn
 <li>Dataset selection: find or generate a dataset containing sales data</li>
 <li>Data loading: A function to load the dataset into pandas DataFrame</li>
