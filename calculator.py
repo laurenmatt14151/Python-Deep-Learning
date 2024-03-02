@@ -1,7 +1,7 @@
 """
 1. Read line and identify numbers and arithmetic symbols
 2. Perform order of operations
-3. Print answer
+3. Return answer
 """
 # Function to perform arithmetic operations
 def apply_operation(operand1, operator, operand2):
@@ -85,5 +85,3 @@ def main():
 
 if __name__ == "__main__": # Ensures main() is only executed if script is run 
     main();                # directly and not if imported as a module
-    
-
